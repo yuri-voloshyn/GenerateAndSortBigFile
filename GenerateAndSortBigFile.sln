@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateBigFile", "GenerateBigFile\GenerateBigFile.csproj", "{C3E60AF8-96A1-46CA-A95D-1B06A66F3C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortBigFile", "SortBigFile\SortBigFile.csproj", "{C15A433C-D405-402E-B7D1-4FAC8E6C6BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E60AF8-96A1-46CA-A95D-1B06A66F3C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E60AF8-96A1-46CA-A95D-1B06A66F3C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E60AF8-96A1-46CA-A95D-1B06A66F3C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E60AF8-96A1-46CA-A95D-1B06A66F3C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15A433C-D405-402E-B7D1-4FAC8E6C6BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15A433C-D405-402E-B7D1-4FAC8E6C6BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15A433C-D405-402E-B7D1-4FAC8E6C6BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15A433C-D405-402E-B7D1-4FAC8E6C6BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
